@@ -1,0 +1,3 @@
+Halo dunia, nama saya adalah Lismi
+
+Sekarang saya sedang belajar git dan github
